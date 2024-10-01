@@ -1,0 +1,18 @@
+{
+    "name": "daivid/composer-test",
+    "description": "composer describtion",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Daivid\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "daivid",
+            "email": "daivid@example.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
