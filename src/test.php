@@ -2,12 +2,13 @@
 
 namespace Daivid\ComposerTest;
 
-class testbbbbbbbbbbbb
+class test
 {
 
     public function test()
     {
         echo 'bbbbbbbbbbbbb';
         echo 'xxxxxxxxxbbb';
+        echo 'cccccccc';
     }
 }
