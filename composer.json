@@ -1,8 +1,12 @@
 {
     "name": "daivid/composer-test",
-    "description": "composer describtion",
+    "description": "composer description",
+    "type": "project",
     "license": "MIT",
     "autoload": {
+        "files":[
+            "src/helper.php"
+        ],
         "psr-4": {
             "Daivid\\ComposerTest\\": "src/"
         }
