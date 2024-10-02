@@ -2,7 +2,8 @@
 
 namespace Daivid\ComposerTest;
 
-class test
+class testssssss
 {
+
 
 }
