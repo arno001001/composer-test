@@ -8,5 +8,6 @@ class testbbbbbbbbbbbb
     public function test()
     {
         echo 'bbbbbbbbbbbbb';
+        echo 'xxxxxxxxxbbb';
     }
 }
